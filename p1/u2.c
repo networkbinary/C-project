@@ -3,7 +3,7 @@ Author:NetworkBinary
 Reg No:BCS-05-0541
 */
 
-//programmes to display Units offered this semester
+//Programmes To Display Units Offered This Semester
 #include <stdio.h>
 int main() {
     printf("Units Offered this Semester:\n");
