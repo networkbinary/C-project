@@ -3,7 +3,6 @@ Author:NetworkBinary
 Reg No:BCS-05-0541
 */
 
-
 //programmes to display Units offered this semester
 #include <stdio.h>
 int main() {
