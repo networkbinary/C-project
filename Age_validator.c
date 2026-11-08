@@ -5,7 +5,7 @@ int main () {
     char name [15] = "";
     int age;
     printf("What is your name ?\t");
-    scanf("%s", &name);
+    fgets(name, 15, stdin); //update to take both names
     printf("How old are you ?\t");
     scanf("%d", &age);
 
